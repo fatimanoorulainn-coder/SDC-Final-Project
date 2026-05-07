@@ -10,7 +10,7 @@ The backend is implemented using AWS services under AWS Learner Lab.
 - AWS Lambda
 - Amazon API Gateway
 - Amazon DynamoDB
-- AWS EC2 (if used)
+- AWS EC2 
 - GitHub
 
 ## System Architecture
